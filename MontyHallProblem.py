@@ -8,6 +8,10 @@ for i in range(user_input):
     # 홍식
     if prize == choice:
     # 아림
+	elif prize == 2:
+        open = 3
+        choice = 3
+        win += 1
     elif prize == 2:
     # 인제
     else:
