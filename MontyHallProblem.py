@@ -14,3 +14,6 @@ for i in range(user_input):
     elif prize == 2:
     # 인제
     else:
+        open = 2
+        choice = 3
+        win += 1
